@@ -44,7 +44,7 @@ Abbiamo lavorato principalmente in ambienti Linux (VM CyberOps Workstation, Kali
 
 ---
 
-## Team Ghostprotocol
+## Team GhostProtocol
 
 Questo progetto è stato realizzato grazie alla collaborazione e all'impegno di:
 
